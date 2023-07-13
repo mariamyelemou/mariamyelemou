@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.A {
+    display: flex;
+    justify-content: 30px;
+
+}
+section{
+    display: flex;
+}
